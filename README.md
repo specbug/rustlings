@@ -1,17 +1,18 @@
-# Rustlings 🦀
+# My Rustlings Journey 🦀
 
-Small exercises to get you used to reading and writing Rust code!
+This repository is where I track my progress as I work through the [Rustlings](https://rustlings.rust-lang.org/) exercises.
 
-This repository is a collection of small exercises to get you comfortable with reading and writing Rust code. It's designed to be a hands-on supplement to the [official Rust book](https://doc.rust-lang.org/book/).
+The goal is to get comfortable with reading and writing Rust code by solving small, targeted exercises.
 
-## How to use this repository
+## Progress Tracking
 
-Each exercise is a small Rust file located in the `exercises/` directory. Most of them have a bug or a missing piece of code that prevents them from compiling or running correctly. Your task is to fix these issues!
+I am using this repo to:
+- Store my solutions to the exercises.
+- Track my learning path through the Rust language.
+- Reference my own notes and implementations later.
 
-1. Explore the exercises in the `exercises/` directory.
-2. Follow the instructions in each file or the accompanying `README.md` in each subfolder.
-3. Fix the code so it compiles and passes any tests.
+## Structure
 
-## Reference
-
-For more information and the official tool, visit [rustlings.rust-lang.org](https://rustlings.rust-lang.org/).
+- `exercises/`: My current work and solutions.
+- `solutions/`: Reference solutions for when I get stuck.
+- `.rustlings-state.txt`: Tracking file for the rustlings CLI.
